@@ -29,7 +29,7 @@ To download from the command-line: <br>
 > git clone https://github.com/remizaidan/PointCloud
 
 ### Dependencies:
-- ROOT Data Analysis Framework (version 6.08). Documentation and download are avaiable here: \n
+- ROOT Data Analysis Framework (version 6.08). Documentation and download are avaiable here: <br>
 <a href="https://root.cern.ch">https://root.cern.ch</a>
 
 
